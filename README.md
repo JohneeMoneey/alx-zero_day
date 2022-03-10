@@ -1,1 +1,1 @@
-my first readme updated
+Thanks to Alx
